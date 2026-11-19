@@ -64,9 +64,9 @@ http://204.52.191.254/play/live.php?mac=00:1A:79:34:45:76&stream=1803162&extensi
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/TCHEQUIE/CANALPLUSSPORT4.png",CANAL+ Sport4 CZ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:b6:d0&stream=1803162&extension=ts&play_token=sfyYKe8H2y
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/TCHEQUIE/CANALPLUSSPORT4.png",CANAL+ Sport4 CZ
-http://watchnowone.cc/live/MAGCLK2SHU/2kYubSPucv/1408016.ts
+http://204.52.191.254/play/live.php?mac=00:1A:79:7F:95:2E&stream=1803162&extension=ts&play_token=c7efJyhcRA
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/TCHEQUIE/CANALPLUSSPORT4.png",CANAL+ Sport4 CZ
-http://watchnowone.cc/live/D3A4F0DC80F8/AD7357558D12/1408016.ts
+http://204.52.191.254/play/live.php?mac=00:1A:79:35:66:39&stream=1803162&extension=ts&play_token=FN8SEBpGkV
 #EXTINF:-1 tvg-logo="http://lg.maxnow.cx:8080/logo/EUROPE/ITALY/ITALY/sky.png",SKY Sport Calcio
 http://99.rohs.lol/live/netdoda287/obrv4loiv6/428630.ts
 #EXTINF:-1 tvg-logo="http://lg.maxnow.cx:8080/logo/EUROPE/ITALY/ITALY/sky.png",SKY Sport Calcio
