@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,SKY Sport Main Event 4K
+#EXTINF:-1 group-title="PREMIER LEAGUE",SKY Sport Main Event 4K
 http://line.fastiger.org/live/decshanahan1/092623/1444578.ts
 #EXTINF:-1,SKY Sport Main Event 4K
 http://68056382.tvway.pro/live/J24N44X8/37730982/1201050.ts
@@ -67,7 +67,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:b6:d0&stream=1803162&exte
 http://204.52.191.254/play/live.php?mac=00:1A:79:7F:95:2E&stream=1803162&extension=ts&play_token=c7efJyhcRA
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/TCHEQUIE/CANALPLUSSPORT4.png",CANAL+ Sport4 CZ
 http://204.52.191.254/play/live.php?mac=00:1A:79:4D:44:AC&stream=1803162&extension=ts&play_token=dmuSYPFSoJ
-#EXTINF:-1 tvg-logo="http://lg.maxnow.cx:8080/logo/EUROPE/ITALY/ITALY/sky.png",SKY Sport Calcio
+#EXTINF:-1 group-title="SERIE A" tvg-logo="http://lg.maxnow.cx:8080/logo/EUROPE/ITALY/ITALY/sky.png",SKY Sport Calcio
 http://99.rohs.lol/live/netdoda287/obrv4loiv6/428630.ts
 #EXTINF:-1 tvg-logo="http://lg.maxnow.cx:8080/logo/EUROPE/ITALY/ITALY/sky.png",SKY Sport Calcio
 http://ibo-player.xyz/live/yickpbh5r1/tqw44zbogy/428627.ts
@@ -125,8 +125,8 @@ http://68056382.tvway.pro/live/J24N44X8/37730982/1201066.ts
 http://4knono.shop/live/4P26MC9/8881LNT/1281071.ts
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/elevensports1uhd.png",ELEVEN Sport 4K
 http://line.ultrab.xyz/live/22349A6/15A29F/1444619.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/skysportbundesligauhd.png",SKY Sport Bundesliga 4K
-http://goldenpass.xyz/live/EWXP84N/Q2Y8Z8U/1281069.ts
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="https://img.logo-cdn.cc/skysportbundesligauhd.png",SKY Sport Bundesliga 4K
+http://tv24.site/play/live.php?mac=00:1A:79:04:F0:0E&stream=1284559&extension=ts&play_token=bHCFUwKRKo
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/skysportbundesligauhd.png",SKY Sport Bundesliga 4K
 http://mag.dino.ws/play/live.php?mac=00:1A:79:1C:14:EE&stream=1284559&extension=ts&play_token=hpOqL0ZHkS
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/skysportbundesligauhd.png",SKY Sport Bundesliga 4K
@@ -155,7 +155,7 @@ http://goldenpass.xyz/live/QC3SW6ZH4GPNAUF/uZgovGLKpJ/45657.ts
 http://sofinet.store/live/MAGDMK8Z1R/MAGAV14NMU/45657.ts
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/dazn2bar.png",DAZN BAR2 DE
 http://goldenpass.xyz/live/MAGAA5G8HU/MAGGQFJSP1/45657.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/laliga.png",La Liga1 4K
+#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://img.logo-cdn.cc/laliga.png",La Liga1 4K
 http://nordhub.xyz/live/GQR3B5N/TD06WML/1425366.ts
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/laliga.png",La Liga1 4K
 http://nordhub.xyz/live/3659020/L6JGV48/1425366.ts
